@@ -43,12 +43,17 @@ tambahan fitur :
 - pilihan antara R(restart) atau M (main menu) ketika kalah
 
 ## Dokumentasi
+
+!! DISCLAIMER
+gamenya gaada backsound, ini aku screenrecord pas dengerin lagu
+
+https://github.com/user-attachments/assets/f1fbd1c1-6977-4a8b-81da-cf1e596a3666
+
+
 <img width="1920" height="1080" alt="Screenshot (676)" src="https://github.com/user-attachments/assets/6740e539-273f-45f3-adf0-2ff7bf4a837e" />
 
 <img width="1920" height="1080" alt="Screenshot (677)" src="https://github.com/user-attachments/assets/416a9414-0fa8-4dd4-b884-fe2c8d24e5e1" />
 
 <img width="1920" height="1080" alt="Screenshot (678)" src="https://github.com/user-attachments/assets/80bd9eb4-3ef7-4457-808b-eb1756f61bdf" />
-
-https://github.com/user-attachments/assets/f1fbd1c1-6977-4a8b-81da-cf1e596a3666
 
 <img width="1920" height="1080" alt="Screenshot (679)" src="https://github.com/user-attachments/assets/e54c431e-ef57-4b9e-9906-fcfd6afca236" />
